@@ -1,0 +1,153 @@
+.body{
+    border:3px solid green;
+    background-color:aquamarine;
+    
+}
+
+.container1{
+    border:3px solid yellow;
+    width: auto;
+    height: auto;
+}
+
+
+
+.box1{
+    border: 8px solid red;
+    width:30%;
+    line-height:30px;
+    background-color: black;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    border-radius: 40px;
+    color:white;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left:20px;
+    position: relative;
+}
+
+.box2{
+    border:8px solid red;
+    background-color:black;
+    width:30%;
+    line-height:10px;
+    font-size:30px;
+    font-style: italic;
+    border-radius: 40px;
+    color:white;
+    text-align:center;
+    margin-bottom:100px;
+    margin-right: 10px;
+    padding-left:80px;
+    padding-right:30px;
+    padding-top:10px;
+    top:15px;
+    right:150px;
+    position: relative;
+}
+
+.box3{
+    border:8px solid red;
+    width:30%;
+    line-height:30px;
+    background-color: black;
+    font-size: 30px;
+    font-style: italic;
+    border-radius: 40px;
+    color: white;
+    text-align: center;
+    display: block;
+    margin-right:10px;
+}
+
+.box{
+    display:flex;
+    margin-top: 50px;
+}
+
+
+.circle{
+    border:8px solid violet;
+    width:400px;
+    height:250px;
+    border-radius: 50%;
+    background-color: darkcyan;
+    text-decoration:underline;
+    font-size:20px;
+    font-style: italic;
+    text-align: center;
+    margin: auto;
+    margin-left: 80px;
+    margin-right: 200px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+
+.form{
+    border: 8px dashed red;
+    text-align: center;
+    width: 450px;
+}
+
+h1{
+    color:red;
+}
+
+label{
+    color: red;
+}
+
+::placeholder{
+    text-align: center;
+}
+
+.container2{
+    display:flex;
+    margin-top: 60px;
+    margin-bottom: 40px;
+
+}
+
+.mnu{
+    border:8px solid red;
+    border-radius:30px;
+    width:600px;
+    height:50px;
+    background-color: black;
+    font-style: italic;
+    color: white;
+    font-size:40px;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+
+.card{
+    border:3px solid green;
+    border-radius: 30px;
+    width : 300px;
+    height: 300px;
+    background-color: aqua;
+    color:blueviolet;
+    text-align: center;
+}
+
+.row1{
+    display:flex;
+    justify-content:space-around;
+    margin-top: 50px;
+}
+
+.row2{
+    display:flex;
+    justify-content:space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+

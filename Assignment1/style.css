@@ -1,0 +1,44 @@
+h1,h2
+{ 
+    color:red;
+    font-weight: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-stretch: narrow;
+    font-weight:bolder;
+}
+ol{
+ color:#a30000a6;
+ font-family: 'Times New Roman', Times, serif;
+ font-weight:900;
+ font-size: large;
+
+}
+.line
+{
+    text-decoration: line-through;
+    font-weight: bolder;
+}
+.mark{
+    font-weight:bolder;
+    background-color:#ffd700;
+
+}
+ul{
+    color:brown;
+    letter-spacing:5px;
+  font-size:medium ;
+  font-weight:700;
+}
+p{
+    color: darkolivegreen;
+}
+.li4
+{
+    font-style:oblique;
+    text-decoration: underline;
+}
+.a 
+{
+    font-style:oblique;
+    background-color: yellow;
+}
